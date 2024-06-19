@@ -1,0 +1,6 @@
+# SQL Server files
+*.mdf
+*.ldf
+
+#missing files
+vendor/drush/drush/docs/*
